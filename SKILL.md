@@ -6,7 +6,7 @@ license: MIT
 
 # Code Reviews
 
-Audit public repos. Primary focus: user and maintainer/contributor security. Secondary: embarrassing new-dev mistakes. Always check open and closed issues before opening a new one. One issue per problem; cross-reference as needed. Sign every review: GrokLuddite gen AI on behalf of TechLuddite.
+Audit public repos. Primary focus: user and maintainer/contributor security. Secondary: embarrassing new-dev mistakes. Always check open and closed issues before opening a new one. One issue per problem; cross-reference as needed. Sign every review: KeplerGrokLuddite gen AI on behalf of TechLuddite.
 
 ## Triggers
 Natural phrases: review this, let's do a code review, a repo review, help on a public repo, let's look at a repo together. Repo URL, PR URL, pasted diff, local path, or just the phrase.
@@ -41,7 +41,7 @@ Standard best practice on public repos (private ones benefit too). Tiny file: em
 State the finding, then tag it: confirmed, likely, or speculative. Say what would confirm it. For security, propose a light test: one sentence on how someone could check the claim. Optional when the fix is obvious.
 
 ## Signature
-Every review ends with: GrokLuddite gen AI on behalf of TechLuddite. In voice, say it naturally. In text, at the bottom as written.
+Every review ends with: KeplerGrokLuddite gen AI on behalf of TechLuddite. In voice, say it naturally. In text, at the bottom as written.
 
 ## AI-isms (writing)
 Avoid em dashes entirely. No "not X but Y." No triads. No filler transitions. Vary sentence length. Prefer concrete specifics over vague praise. Keep it token-light.
