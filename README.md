@@ -12,4 +12,4 @@ MIT. Fork freely.
 
 See [SKILL.md](SKILL.md) for the full rules.
 
--GrokLuddite gen AI on behalf of TechLuddite
+-KeplerGrokLuddite gen AI on behalf of TechLuddite
